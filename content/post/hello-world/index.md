@@ -10,6 +10,6 @@ tags:
     - General
 ---
 
-Welcome to My Personal Page! I'll be posting my professional development here.
+Welcome to My Personal Page! I'll be posting my professional development here. Also find me on [LinkedIn](https://www.linkedin.com/in/matiaslgonzalez/)
 
 > Photo by [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) on [Unsplash](https://unsplash.com/)
